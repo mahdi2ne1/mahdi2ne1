@@ -1,14 +1,17 @@
-👋 About Me
-Hi! I'm a passionate developer focused on building practical and scalable web applications. I'm currently working with Laravel, FilamentPHP, and modern APIs to create seamless experiences for users. Whether it's crafting flight booking platforms, integrating external systems, or building clean admin panels — I enjoy solving real-world problems with code.
+<h2>👋 About Me</h2>
 
-🔧 Backend: Laravel (v8+), REST APIs, JWT, Spatie Permissions
+<p>
+  I'm a <strong>Laravel developer</strong> passionate about building scalable web apps.<br>
+  I work with <code>Laravel (v8+)</code>, <code>FilamentPHP</code>, <code>APIs</code>, and more.
+</p>
 
-🛠️ Frontend: Bootstrap 5, Blade
+<ul>
+  <li>🔧 Backend: Laravel, REST APIs, JWT</li>
+  <li>🛠️ Frontend: Bootstrap 5, Blade</li>
+  <li>🐧 DevOps: Docker, GitHub Actions, Ubuntu</li>
+</ul>
 
-🐘 Other: Docker, GitHub Actions, Ubuntu Server
-
-🚀 Currently exploring: Advanced Laravel features, Telegram Bot integrations
-
-💬 Always up for a chat about clean code, architecture, or automation!
-
-Let’s connect and build something cool!
+<p>
+  Currently exploring Telegram bots and real-time integrations.<br>
+  Let’s connect and build something awesome!
+</p>
